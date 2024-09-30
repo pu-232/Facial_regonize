@@ -1,1 +1,1 @@
-To use thecode, install deepface first
+To use the code, install deepface first
