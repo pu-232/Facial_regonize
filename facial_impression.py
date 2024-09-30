@@ -10,7 +10,6 @@ while True:
     ret, frame = cam.read()
     if not ret:
         break
-
     # Display the captured frame
     
     wk=cv2.waitKey(1)
